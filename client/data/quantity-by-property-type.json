@@ -1,0 +1,266 @@
+[
+  {
+    "propertyType": "Entire villa",
+    "quantity": 5087
+  },
+  {
+    "propertyType": "Entire home",
+    "quantity": 4656
+  },
+  {
+    "propertyType": "Entire rental unit",
+    "quantity": 3261
+  },
+  {
+    "propertyType": "Entire cottage",
+    "quantity": 762
+  },
+  {
+    "propertyType": "Private room in rental unit",
+    "quantity": 430
+  },
+  {
+    "propertyType": "Entire chalet",
+    "quantity": 396
+  },
+  {
+    "propertyType": "Entire condo",
+    "quantity": 347
+  },
+  {
+    "propertyType": "Entire townhouse",
+    "quantity": 309
+  },
+  {
+    "propertyType": "Room in hotel",
+    "quantity": 290
+  },
+  {
+    "propertyType": "Private room in home",
+    "quantity": 189
+  },
+  {
+    "propertyType": "Room in boutique hotel",
+    "quantity": 154
+  },
+  {
+    "propertyType": "Entire serviced apartment",
+    "quantity": 117
+  },
+  {
+    "propertyType": "Camper/RV",
+    "quantity": 115
+  },
+  {
+    "propertyType": "Entire vacation home",
+    "quantity": 88
+  },
+  {
+    "propertyType": "Private room in bed and breakfast",
+    "quantity": 70
+  },
+  {
+    "propertyType": "Entire loft",
+    "quantity": 67
+  },
+  {
+    "propertyType": "Entire guesthouse",
+    "quantity": 48
+  },
+  {
+    "propertyType": "Farm stay",
+    "quantity": 40
+  },
+  {
+    "propertyType": "Room in aparthotel",
+    "quantity": 36
+  },
+  {
+    "propertyType": "Boat",
+    "quantity": 33
+  },
+  {
+    "propertyType": "Entire bungalow",
+    "quantity": 30
+  },
+  {
+    "propertyType": "Private room in condo",
+    "quantity": 27
+  },
+  {
+    "propertyType": "Private room in hostel",
+    "quantity": 24
+  },
+  {
+    "propertyType": "Entire guest suite",
+    "quantity": 22
+  },
+  {
+    "propertyType": "Private room in cottage",
+    "quantity": 20
+  },
+  {
+    "propertyType": "Private room in serviced apartment",
+    "quantity": 19
+  },
+  {
+    "propertyType": "Private room in casa particular",
+    "quantity": 19
+  },
+  {
+    "propertyType": "Houseboat",
+    "quantity": 17
+  },
+  {
+    "propertyType": "Private room in townhouse",
+    "quantity": 14
+  },
+  {
+    "propertyType": "Private room in villa",
+    "quantity": 14
+  },
+  {
+    "propertyType": "Entire place",
+    "quantity": 14
+  },
+  {
+    "propertyType": "Casa particular",
+    "quantity": 13
+  },
+  {
+    "propertyType": "Private room in chalet",
+    "quantity": 12
+  },
+  {
+    "propertyType": "Earthen home",
+    "quantity": 11
+  },
+  {
+    "propertyType": "Private room in guesthouse",
+    "quantity": 9
+  },
+  {
+    "propertyType": "Private room in farm stay",
+    "quantity": 9
+  },
+  {
+    "propertyType": "Room in bed and breakfast",
+    "quantity": 9
+  },
+  {
+    "propertyType": "Room in serviced apartment",
+    "quantity": 9
+  },
+  {
+    "propertyType": "Private room in guest suite",
+    "quantity": 8
+  },
+  {
+    "propertyType": "Entire cabin",
+    "quantity": 8
+  },
+  {
+    "propertyType": "Tiny home",
+    "quantity": 8
+  },
+  {
+    "propertyType": "Shared room in rental unit",
+    "quantity": 7
+  },
+  {
+    "propertyType": "Private room in earthen home",
+    "quantity": 6
+  },
+  {
+    "propertyType": "Castle",
+    "quantity": 3
+  },
+  {
+    "propertyType": "Private room",
+    "quantity": 3
+  },
+  {
+    "propertyType": "Island",
+    "quantity": 3
+  },
+  {
+    "propertyType": "Room in nature lodge",
+    "quantity": 3
+  },
+  {
+    "propertyType": "Room in heritage hotel",
+    "quantity": 3
+  },
+  {
+    "propertyType": "Entire home/apt",
+    "quantity": 3
+  },
+  {
+    "propertyType": "Private room in boat",
+    "quantity": 3
+  },
+  {
+    "propertyType": "Shared room in home",
+    "quantity": 3
+  },
+  {
+    "propertyType": "Room in hostel",
+    "quantity": 2
+  },
+  {
+    "propertyType": "Private room in loft",
+    "quantity": 2
+  },
+  {
+    "propertyType": "Campsite",
+    "quantity": 2
+  },
+  {
+    "propertyType": "Private room in vacation home",
+    "quantity": 2
+  },
+  {
+    "propertyType": "Treehouse",
+    "quantity": 1
+  },
+  {
+    "propertyType": "Private room in cabin",
+    "quantity": 1
+  },
+  {
+    "propertyType": "Private room in holiday park",
+    "quantity": 1
+  },
+  {
+    "propertyType": "Holiday park",
+    "quantity": 1
+  },
+  {
+    "propertyType": "Private room in nature lodge",
+    "quantity": 1
+  },
+  {
+    "propertyType": "Shared room in hostel",
+    "quantity": 1
+  },
+  {
+    "propertyType": "Private room in island",
+    "quantity": 1
+  },
+  {
+    "propertyType": "Shepherd’s hut",
+    "quantity": 1
+  },
+  {
+    "propertyType": "Tower",
+    "quantity": 1
+  },
+  {
+    "propertyType": "Shared room in boat",
+    "quantity": 1
+  },
+  {
+    "propertyType": "Shipping container",
+    "quantity": 1
+  }
+]

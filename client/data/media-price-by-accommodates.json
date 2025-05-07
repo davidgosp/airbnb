@@ -1,0 +1,98 @@
+[
+  {
+    "accommodates": "1",
+    "quantity": 187,
+    "total": 16614,
+    "average": 88.84
+  },
+  {
+    "accommodates": "3",
+    "quantity": 595,
+    "total": 77165,
+    "average": 129.69
+  },
+  {
+    "accommodates": "2",
+    "quantity": 2242,
+    "total": 306318,
+    "average": 136.63
+  },
+  {
+    "accommodates": "4",
+    "quantity": 3119,
+    "total": 522474,
+    "average": 167.51
+  },
+  {
+    "accommodates": "5",
+    "quantity": 922,
+    "total": 165726,
+    "average": 179.75
+  },
+  {
+    "accommodates": "6",
+    "quantity": 4280,
+    "total": 1017582,
+    "average": 237.75
+  },
+  {
+    "accommodates": "7",
+    "quantity": 347,
+    "total": 93176,
+    "average": 268.52
+  },
+  {
+    "accommodates": "8",
+    "quantity": 2528,
+    "total": 806084,
+    "average": 318.86
+  },
+  {
+    "accommodates": "11",
+    "quantity": 73,
+    "total": 24249,
+    "average": 332.18
+  },
+  {
+    "accommodates": "13",
+    "quantity": 4,
+    "total": 1330,
+    "average": 332.5
+  },
+  {
+    "accommodates": "16",
+    "quantity": 99,
+    "total": 35075,
+    "average": 354.29
+  },
+  {
+    "accommodates": "9",
+    "quantity": 171,
+    "total": 60853,
+    "average": 355.87
+  },
+  {
+    "accommodates": "10",
+    "quantity": 825,
+    "total": 294697,
+    "average": 357.21
+  },
+  {
+    "accommodates": "12",
+    "quantity": 490,
+    "total": 195892,
+    "average": 399.78
+  },
+  {
+    "accommodates": "15",
+    "quantity": 4,
+    "total": 1638,
+    "average": 409.5
+  },
+  {
+    "accommodates": "14",
+    "quantity": 42,
+    "total": 18303,
+    "average": 435.79
+  }
+]

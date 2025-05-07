@@ -1,0 +1,320 @@
+[
+  {
+    "neighburhood": "Palma de Mallorca",
+    "quantity": 1517,
+    "total": 237153,
+    "average": 156.33
+  },
+  {
+    "neighburhood": "Llubí",
+    "quantity": 99,
+    "total": 18080,
+    "average": 182.63
+  },
+  {
+    "neighburhood": "Santa Margalida",
+    "quantity": 646,
+    "total": 120310,
+    "average": 186.24
+  },
+  {
+    "neighburhood": "Sineu",
+    "quantity": 93,
+    "total": 19389,
+    "average": 208.48
+  },
+  {
+    "neighburhood": "Campanet",
+    "quantity": 148,
+    "total": 30904,
+    "average": 208.81
+  },
+  {
+    "neighburhood": "Escorca",
+    "quantity": 22,
+    "total": 4602,
+    "average": 209.18
+  },
+  {
+    "neighburhood": "Alcúdia",
+    "quantity": 1522,
+    "total": 320614,
+    "average": 210.65
+  },
+  {
+    "neighburhood": "Porreres",
+    "quantity": 77,
+    "total": 16441,
+    "average": 213.52
+  },
+  {
+    "neighburhood": "Capdepera",
+    "quantity": 502,
+    "total": 107401,
+    "average": 213.95
+  },
+  {
+    "neighburhood": "Ses Salines",
+    "quantity": 231,
+    "total": 49559,
+    "average": 214.54
+  },
+  {
+    "neighburhood": "Sant Llorenç des Cardassar",
+    "quantity": 293,
+    "total": 62908,
+    "average": 214.7
+  },
+  {
+    "neighburhood": "Alaró",
+    "quantity": 89,
+    "total": 19340,
+    "average": 217.3
+  },
+  {
+    "neighburhood": "Ariany",
+    "quantity": 90,
+    "total": 19650,
+    "average": 218.33
+  },
+  {
+    "neighburhood": "Banyalbufar",
+    "quantity": 63,
+    "total": 14003,
+    "average": 222.27
+  },
+  {
+    "neighburhood": "Calvià",
+    "quantity": 471,
+    "total": 105860,
+    "average": 224.76
+  },
+  {
+    "neighburhood": "Lloret de Vistalegre",
+    "quantity": 42,
+    "total": 9476,
+    "average": 225.62
+  },
+  {
+    "neighburhood": "Maria de la Salut",
+    "quantity": 74,
+    "total": 16719,
+    "average": 225.93
+  },
+  {
+    "neighburhood": "Puigpunyent",
+    "quantity": 44,
+    "total": 9947,
+    "average": 226.07
+  },
+  {
+    "neighburhood": "Santanyí",
+    "quantity": 976,
+    "total": 221788,
+    "average": 227.24
+  },
+  {
+    "neighburhood": "Costitx",
+    "quantity": 54,
+    "total": 12398,
+    "average": 229.59
+  },
+  {
+    "neighburhood": "Sóller",
+    "quantity": 463,
+    "total": 107495,
+    "average": 232.17
+  },
+  {
+    "neighburhood": "Manacor",
+    "quantity": 749,
+    "total": 173924,
+    "average": 232.21
+  },
+  {
+    "neighburhood": "Inca",
+    "quantity": 233,
+    "total": 54622,
+    "average": 234.43
+  },
+  {
+    "neighburhood": "Muro",
+    "quantity": 364,
+    "total": 86082,
+    "average": 236.49
+  },
+  {
+    "neighburhood": "Santa María del Camí",
+    "quantity": 49,
+    "total": 11810,
+    "average": 241.02
+  },
+  {
+    "neighburhood": "Andratx",
+    "quantity": 212,
+    "total": 51570,
+    "average": 243.25
+  },
+  {
+    "neighburhood": "Sencelles",
+    "quantity": 110,
+    "total": 26770,
+    "average": 243.36
+  },
+  {
+    "neighburhood": "Campos",
+    "quantity": 516,
+    "total": 125779,
+    "average": 243.76
+  },
+  {
+    "neighburhood": "Son Servera",
+    "quantity": 264,
+    "total": 64496,
+    "average": 244.3
+  },
+  {
+    "neighburhood": "Montuïri",
+    "quantity": 46,
+    "total": 11281,
+    "average": 245.24
+  },
+  {
+    "neighburhood": "Sant Joan",
+    "quantity": 49,
+    "total": 12118,
+    "average": 247.31
+  },
+  {
+    "neighburhood": "Sa Pobla",
+    "quantity": 270,
+    "total": 67063,
+    "average": 248.38
+  },
+  {
+    "neighburhood": "Selva",
+    "quantity": 252,
+    "total": 62735,
+    "average": 248.95
+  },
+  {
+    "neighburhood": "Vilafranc de Bonany",
+    "quantity": 46,
+    "total": 11500,
+    "average": 250
+  },
+  {
+    "neighburhood": "Fornalutx",
+    "quantity": 87,
+    "total": 21792,
+    "average": 250.48
+  },
+  {
+    "neighburhood": "Petra",
+    "quantity": 145,
+    "total": 36377,
+    "average": 250.88
+  },
+  {
+    "neighburhood": "Felanitx",
+    "quantity": 598,
+    "total": 150182,
+    "average": 251.14
+  },
+  {
+    "neighburhood": "Pollença",
+    "quantity": 2553,
+    "total": 643673,
+    "average": 252.12
+  },
+  {
+    "neighburhood": "Binissalem",
+    "quantity": 86,
+    "total": 21718,
+    "average": 252.53
+  },
+  {
+    "neighburhood": "Llucmajor",
+    "quantity": 607,
+    "total": 153292,
+    "average": 252.54
+  },
+  {
+    "neighburhood": "Consell",
+    "quantity": 17,
+    "total": 4364,
+    "average": 256.71
+  },
+  {
+    "neighburhood": "Mancor de la Vall",
+    "quantity": 41,
+    "total": 10580,
+    "average": 258.05
+  },
+  {
+    "neighburhood": "Artà",
+    "quantity": 376,
+    "total": 98266,
+    "average": 261.35
+  },
+  {
+    "neighburhood": "Valldemossa",
+    "quantity": 95,
+    "total": 25124,
+    "average": 264.46
+  },
+  {
+    "neighburhood": "Algaida",
+    "quantity": 95,
+    "total": 25226,
+    "average": 265.54
+  },
+  {
+    "neighburhood": "Lloseta",
+    "quantity": 48,
+    "total": 12780,
+    "average": 266.25
+  },
+  {
+    "neighburhood": "Búger",
+    "quantity": 150,
+    "total": 40467,
+    "average": 269.78
+  },
+  {
+    "neighburhood": "Bunyola",
+    "quantity": 73,
+    "total": 19934,
+    "average": 273.07
+  },
+  {
+    "neighburhood": "Deyá",
+    "quantity": 80,
+    "total": 21987,
+    "average": 274.84
+  },
+  {
+    "neighburhood": "Santa Eugènia",
+    "quantity": 12,
+    "total": 3637,
+    "average": 303.08
+  },
+  {
+    "neighburhood": "Marratxí",
+    "quantity": 100,
+    "total": 30864,
+    "average": 308.64
+  },
+  {
+    "neighburhood": "Esporles",
+    "quantity": 64,
+    "total": 21587,
+    "average": 337.3
+  },
+  {
+    "neighburhood": "Estellencs",
+    "quantity": 25,
+    "total": 11539,
+    "average": 461.56
+  }
+]

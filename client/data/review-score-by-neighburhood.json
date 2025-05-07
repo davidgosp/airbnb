@@ -1,0 +1,320 @@
+[
+  {
+    "neighburhood": "Mancor de la Vall",
+    "quantity": 37,
+    "total": 167.97999999999996,
+    "average": 4.54
+  },
+  {
+    "neighburhood": "Pollença",
+    "quantity": 1891,
+    "total": 8695.970000000001,
+    "average": 4.6
+  },
+  {
+    "neighburhood": "Alcúdia",
+    "quantity": 1277,
+    "total": 5908.920000000008,
+    "average": 4.63
+  },
+  {
+    "neighburhood": "Calvià",
+    "quantity": 382,
+    "total": 1767.1100000000013,
+    "average": 4.63
+  },
+  {
+    "neighburhood": "Santanyí",
+    "quantity": 901,
+    "total": 4176.790000000005,
+    "average": 4.64
+  },
+  {
+    "neighburhood": "Capdepera",
+    "quantity": 415,
+    "total": 1930.3000000000006,
+    "average": 4.65
+  },
+  {
+    "neighburhood": "Costitx",
+    "quantity": 44,
+    "total": 204.54000000000002,
+    "average": 4.65
+  },
+  {
+    "neighburhood": "Felanitx",
+    "quantity": 539,
+    "total": 2513.260000000001,
+    "average": 4.66
+  },
+  {
+    "neighburhood": "Santa Margalida",
+    "quantity": 514,
+    "total": 2402.480000000001,
+    "average": 4.67
+  },
+  {
+    "neighburhood": "Estellencs",
+    "quantity": 21,
+    "total": 98.14999999999999,
+    "average": 4.67
+  },
+  {
+    "neighburhood": "Muro",
+    "quantity": 286,
+    "total": 1339.2400000000005,
+    "average": 4.68
+  },
+  {
+    "neighburhood": "Palma de Mallorca",
+    "quantity": 1317,
+    "total": 6173.009999999995,
+    "average": 4.69
+  },
+  {
+    "neighburhood": "Sa Pobla",
+    "quantity": 206,
+    "total": 966.81,
+    "average": 4.69
+  },
+  {
+    "neighburhood": "Búger",
+    "quantity": 97,
+    "total": 455.27000000000004,
+    "average": 4.69
+  },
+  {
+    "neighburhood": "Banyalbufar",
+    "quantity": 57,
+    "total": 267.84999999999997,
+    "average": 4.7
+  },
+  {
+    "neighburhood": "Binissalem",
+    "quantity": 78,
+    "total": 366.8200000000001,
+    "average": 4.7
+  },
+  {
+    "neighburhood": "Inca",
+    "quantity": 186,
+    "total": 875.1399999999999,
+    "average": 4.71
+  },
+  {
+    "neighburhood": "Lloseta",
+    "quantity": 48,
+    "total": 226.26000000000005,
+    "average": 4.71
+  },
+  {
+    "neighburhood": "Artà",
+    "quantity": 293,
+    "total": 1379.3800000000003,
+    "average": 4.71
+  },
+  {
+    "neighburhood": "Ses Salines",
+    "quantity": 197,
+    "total": 930.5599999999996,
+    "average": 4.72
+  },
+  {
+    "neighburhood": "Campos",
+    "quantity": 386,
+    "total": 1820.9899999999996,
+    "average": 4.72
+  },
+  {
+    "neighburhood": "Campanet",
+    "quantity": 127,
+    "total": 599.2999999999997,
+    "average": 4.72
+  },
+  {
+    "neighburhood": "Llucmajor",
+    "quantity": 491,
+    "total": 2323.529999999999,
+    "average": 4.73
+  },
+  {
+    "neighburhood": "Llubí",
+    "quantity": 69,
+    "total": 326.33000000000004,
+    "average": 4.73
+  },
+  {
+    "neighburhood": "Sencelles",
+    "quantity": 91,
+    "total": 430.65999999999997,
+    "average": 4.73
+  },
+  {
+    "neighburhood": "Andratx",
+    "quantity": 174,
+    "total": 825.3499999999997,
+    "average": 4.74
+  },
+  {
+    "neighburhood": "Algaida",
+    "quantity": 83,
+    "total": 393.36,
+    "average": 4.74
+  },
+  {
+    "neighburhood": "Son Servera",
+    "quantity": 213,
+    "total": 1009.2500000000001,
+    "average": 4.74
+  },
+  {
+    "neighburhood": "Sineu",
+    "quantity": 76,
+    "total": 360.21999999999997,
+    "average": 4.74
+  },
+  {
+    "neighburhood": "Manacor",
+    "quantity": 606,
+    "total": 2876.7400000000052,
+    "average": 4.75
+  },
+  {
+    "neighburhood": "Escorca",
+    "quantity": 22,
+    "total": 104.53999999999998,
+    "average": 4.75
+  },
+  {
+    "neighburhood": "Petra",
+    "quantity": 107,
+    "total": 508.77000000000004,
+    "average": 4.75
+  },
+  {
+    "neighburhood": "Lloret de Vistalegre",
+    "quantity": 32,
+    "total": 151.97,
+    "average": 4.75
+  },
+  {
+    "neighburhood": "Selva",
+    "quantity": 196,
+    "total": 932.1200000000001,
+    "average": 4.76
+  },
+  {
+    "neighburhood": "Maria de la Salut",
+    "quantity": 58,
+    "total": 276.1699999999999,
+    "average": 4.76
+  },
+  {
+    "neighburhood": "Marratxí",
+    "quantity": 86,
+    "total": 410.05,
+    "average": 4.77
+  },
+  {
+    "neighburhood": "Sant Joan",
+    "quantity": 41,
+    "total": 195.73,
+    "average": 4.77
+  },
+  {
+    "neighburhood": "Porreres",
+    "quantity": 78,
+    "total": 372.51,
+    "average": 4.78
+  },
+  {
+    "neighburhood": "Sant Llorenç des Cardassar",
+    "quantity": 202,
+    "total": 967.5799999999997,
+    "average": 4.79
+  },
+  {
+    "neighburhood": "Alaró",
+    "quantity": 87,
+    "total": 417.15999999999985,
+    "average": 4.79
+  },
+  {
+    "neighburhood": "Ariany",
+    "quantity": 73,
+    "total": 349.6099999999999,
+    "average": 4.79
+  },
+  {
+    "neighburhood": "Sóller",
+    "quantity": 463,
+    "total": 2226.6800000000044,
+    "average": 4.81
+  },
+  {
+    "neighburhood": "Bunyola",
+    "quantity": 68,
+    "total": 327.07,
+    "average": 4.81
+  },
+  {
+    "neighburhood": "Valldemossa",
+    "quantity": 91,
+    "total": 438.99999999999994,
+    "average": 4.82
+  },
+  {
+    "neighburhood": "Vilafranc de Bonany",
+    "quantity": 30,
+    "total": 144.61,
+    "average": 4.82
+  },
+  {
+    "neighburhood": "Deyá",
+    "quantity": 67,
+    "total": 323.99,
+    "average": 4.84
+  },
+  {
+    "neighburhood": "Fornalutx",
+    "quantity": 89,
+    "total": 431.8500000000001,
+    "average": 4.85
+  },
+  {
+    "neighburhood": "Puigpunyent",
+    "quantity": 32,
+    "total": 155.27,
+    "average": 4.85
+  },
+  {
+    "neighburhood": "Esporles",
+    "quantity": 46,
+    "total": 223.59000000000003,
+    "average": 4.86
+  },
+  {
+    "neighburhood": "Montuïri",
+    "quantity": 41,
+    "total": 199.09,
+    "average": 4.86
+  },
+  {
+    "neighburhood": "Santa Eugènia",
+    "quantity": 11,
+    "total": 53.55,
+    "average": 4.87
+  },
+  {
+    "neighburhood": "Santa María del Camí",
+    "quantity": 39,
+    "total": 190.17,
+    "average": 4.88
+  },
+  {
+    "neighburhood": "Consell",
+    "quantity": 17,
+    "total": 83.25999999999999,
+    "average": 4.9
+  }
+]
