@@ -16,6 +16,8 @@
         hostName: element.host_name,
         hostLocation: element.host_location,
         neighburhood: element.neighbourhood_cleansed,
+        latitude: element.latitude,
+        longitude: element.longitude,
         roomType: element.room_type,
         propertyType: element.property_type,
         bedrooms: element.bedrooms,
