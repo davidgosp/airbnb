@@ -1,0 +1,36 @@
+{
+  "name": "airbnb",
+  "version": "1.0.0",
+  "description": "API airbnb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --env-file=.env index.js",
+    "dev": "node --env-file=.env --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidgosp/airbnb.git"
+  },
+  "keywords": [
+    "airbnb",
+    "bot",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidgosp/airbnb/issues"
+  },
+  "homepage": "https://github.com/davidgosp/airbnb#readme",
+  "devDependencies": {
+    "eslint": "^9.24.0",
+    "neostandard": "^0.12.1",
+    "sequelize-cli": "^6.6.2"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0",
+    "sequelize": "^6.37.7"
+  }
+}

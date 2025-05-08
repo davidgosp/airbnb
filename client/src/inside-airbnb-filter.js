@@ -9,33 +9,43 @@
 
     const dataFiltered = data.map(element => {
       return {
-        hostId: element.host_id,
-        listingUrl: element.listing_url,
-        hostUrl: element.host_url,
-        hostSince: element.host_since,
-        hostName: element.host_name,
-        hostLocation: element.host_location,
-        neighburhood: element.neighbourhood_cleansed,
-        latitude: element.latitude,
-        longitude: element.longitude,
-        roomType: element.room_type,
-        propertyType: element.property_type,
-        bedrooms: element.bedrooms,
-        minimumNights: element.minimum_nights,
-        beds: element.beds,
-        reviewScoresRating: element.review_scores_rating,
-        numberOfReviews: element.number_of_reviews,
-        availability30: element.availability_30,
-        availability60: element.availability_60,
-        availability90: element.availability_90,
-        availability365: element.availability_365,
-        price: element.price,
-        accommodates: element.accommodates,
-        numberOfReviewsLtm: element.number_of_reviews_ltm
+        hostId: element.host_id ? element.host_id : null,
+        listingUrl: element.listing_url ? element.listing_url : null,
+        hostUrl: element.host_url ? element.host_url : null,
+        hostSince: element.host_since ? element.host_since : null,
+        hostName: element.host_name ? element.host_name : null,
+        hostLocation: element.host_location ? element.host_location : null,
+        neighburhood: element.neighbourhood_cleansed ? element.neighbourhood_cleansed : null,
+        latitude: element.latitude ? element.latitude : null,
+        longitude: element.longitude ? element.longitude : null,
+        roomType: element.room_type ? element.room_type : null,
+        propertyType: element.property_type ? element.property_type : null,
+        bedrooms: element.bedrooms ? element.bedrooms : null,
+        minimumNights: element.minimum_nights ? element.minimum_nights : null,
+        beds: element.beds ? element.beds : null,
+        reviewScoresRating: element.review_scores_rating ? element.review_scores_rating : null,
+        numberOfReviews: element.number_of_reviews ? element.number_of_reviews : null,
+        availability30: element.availability_30 ? element.availability_30 : null,
+        availability60: element.availability_60 ? element.availability_60 : null,
+        availability90: element.availability_90 ? element.availability_90 : null,
+        availability365: element.availability_365 ? element.availability_365 : null,
+        price: element.price ? element.price.replace('$', '').replace(',','') : null,
+        accommodates: element.accommodates ? element.accommodates : null,
+        numberOfReviewsLtm: element.number_of_reviews_ltm ? element.number_of_reviews_ltm : null,
       }
     })
     
     await fs.writeFile('../data/inside-airbnb-filter.json', JSON.stringify(dataFiltered, null, 2))
+
+    const response = await fetch('http://localhost:8080/api/admin/hosters/bulk-create', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(dataFiltered)
+    })
+
+    const result = await response.json()
 
   } catch (error) {
     console.log(error)
